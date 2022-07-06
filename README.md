@@ -1,4 +1,4 @@
-# firstApp
+# First App
 [ReactNative] - BT Buổi 1 - Nhóm ....   
 - Create a project and run on simulator/emulator, then take a snapshot 
 
